@@ -45,6 +45,13 @@
                     </svg>
                 </div>
 
+                {{-- test routes --}}
+                <div class="">
+                    <a href="/test-public" class="underline">Test route: public</a>
+                    <a href="/test-auth" class="underline">Test route: auth</a>
+                </div>
+                {{-- test routes --}}
+
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
